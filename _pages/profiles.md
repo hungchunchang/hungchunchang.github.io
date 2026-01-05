@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: profiles
 permalink: /people/
 title: people
@@ -10,10 +10,10 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
+    image: hcc.png
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>No. 1, Sec. 4, Roosevelt Road</p>
       <p>Taipei 10617, Taiwan (ROC)</p>
----
+--- -->
