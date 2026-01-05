@@ -2,33 +2,44 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>National Taiwan University</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: hcc.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>No. 1, Sec. 4, Roosevelt Road</p>
+    <p>Taipei 10617, Taiwan (ROC)</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  enabled: false # includes a list of news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  enabled: false
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## Biography
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hi, I am **Hung-Chun (Jonathan) Chang**, a Master's student in **Psychology** at **National Taiwan University (NTU)**. My research lives at the intersection of **Human-Computer Interaction (HCI)** and **Social Robotics**. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am particularly interested in designing intelligent systems that facilitate meaningful human-AI interactions. My work often focuses on **Human-Robot Interaction (HRI)**, **Intelligent Tutoring Systems (ITS)**, and **Gerontechnology**. I believe that by combining psychological insights with engineering, we can create technology that is not only functional but also empathetic and accessible to diverse populations.
+
+Currently, I am a Research Assistant at the **Social Lab HRI group** led by Prof. Hsiu-Ping Yueh. My recent projects include developing **ECRobot**, an ITS robot designed with an empathetic algorithm based on prospect theory, and **XiaoXiao**, a companion robot aimed at improving the well-being of older adults. 
+
+Previously, I completed my B.Sc. at NTU in an interdisciplinary program covering **HCI**
+
+When I'm not coding in Python or Swift, I enjoy cycling and running, I finished 2 half-marathon and several road running event in 2025.
+
+---
+### Research Interests
+* **Human-Robot Interaction (HRI):** Social robots for education and elderly care.
+* **Intelligent Tutoring Systems:** Empathetic AI and multimodal learning interfaces.
+* **HCI & Accessibility:** AR assistive systems and user research for visually impaired and older adults.

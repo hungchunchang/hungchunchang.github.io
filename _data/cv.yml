@@ -2,83 +2,100 @@
   type: map
   contents:
     - name: Full Name
-      value: Hung Chun Chang
-    - name: Date of Birth
-      value: 7th Feburary 2001
+      value: Hung-Chun Chang (張閎鈞)
+    - name: Email
+      value: jonathanchang9@gmail.com
+    - name: Website
+      value: https://hungchunchang.github.io
     - name: Languages
-      value: Mandarin, English
+      value: Mandarin, English, Japanese
 
 - title: Education
   type: time_table
   contents:
-    - title: M.S
+    - title: M.Sc. Psychology
       institution: National Taiwan University, Taipei, Taiwan
-      year: 2025
+      year: 2025 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: B.S.
+        - Focusing on Psychology and Social Robotics.
+    - title: B.Sc. Interdisciplinary Studies of Human-Computer Interaction & Forestry
       institution: National Taiwan University, Taipei, Taiwan
-      year: 2025
+      year: 2019 - 2025
       description:
-        - Interdisciplinary Studies of Human-Computer Interaction
-        - School of Forestry and Resource Conservation
+        - Minor in Psychology.
 
 - title: Experience
   type: time_table
   contents:
     - title: Research Assistant
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+      institution: Social Lab HRI group, National Taiwan University
+      year: 2022/11 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Developed system individually in 5+ projects on human-robot interaction.
+        - Held 2 workshops on multimodal data analysis and voice-based social robot.
+        - Organized 2 training programs for undergrad students.
+        - Authored bachelor thesis research, conducted user research over 28 sessions with 7 older adults, and finished 4 system iterations individually.
     - title: Teaching Assistant
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+      institution: Department of Psychology, National Taiwan University
+      year: 2025/02 - Present
       description:
-        - Description 1.
-        - Description 2.
+        - Course: Classics on Social Robotics (Prof. Hsiu Ping, Yueh).
+        - Held workshop for 18+ hours for 11 students covering literature review, user testing, prototyping, and programming for social robots.
+        - Coauthored 2 conference posters along with the class.
+
+- title: Research Projects
+  type: time_table
+  contents:
+    - title: ECRobot, an ITS robot
+      year: 2025/09 - Present
+      description:
+        - Developed a system containing an iPad app (Swift) for handwriting, NAO robot (Python) for VUI, and FastAPI backend.
+        - Designed empathetic algorithm based on prospect theory.
+    - title: TouchHear, an AR assistive learning system
+      year: 2025/09 - Present
+      description:
+        - Developed as learning tools for visually impaired students, providing audio feedback for dotted figures.
+    - title: XiaoXiao, a companion robot
+      year: 2024/03 - 2025/12
+      description:
+        - Developed VUI system with background storytelling, achieving 40+ minutes of average engagement with older adults.
+    - title: Social Robot as Museum Guide
+      year: 2025/02 - Present
+      description:
+        - Project focused on robotic guidance in museum settings.
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
+    - title: al-folio
+      year: 2015 - Present
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Cathay Charity Foundation 2025 Excellence Scholarship (Human-robot interaction for older adults).
+    - year: 2024
       items:
-        - Max Planck Medal
+        - Startup Prize (Design and implementation of conversation robots).
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Human-Computer Interaction
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - User Research & Gerontechnology
+        - Multimodal Data Analysis
+    - title: Robotics & Psychology
       items:
-        - Description 1.
-        - Description 2.
+        - Social Robot Interaction (HRI)
+        - Intelligent Tutoring Systems (ITS)
+        - Cognitive & Experimental Psychology
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Skills:</u> Python, Java, Matlab, LaTeX, Swift, FastAPI.
+    - <u>Hobbies:</u> Running, Cycling
