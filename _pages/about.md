@@ -6,7 +6,7 @@ subtitle: <a href='https://www.ntu.edu.tw/'>National Taiwan University</a>.
 
 profile:
   align: right
-  image: hcc.png
+  image: hcc.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>No. 1, Sec. 4, Roosevelt Road</p>
