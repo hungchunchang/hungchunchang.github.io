@@ -5,7 +5,7 @@ permalink: /projects/
 description: Collections of projects from lab and courses
 nav: true
 nav_order: 3
-display_categories: [lab, work, fun]
+display_categories: [lab, course, fun]
 horizontal: false
 ---
 

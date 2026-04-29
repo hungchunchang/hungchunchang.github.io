@@ -32,9 +32,9 @@ Hi, I am **Hung-Chun (Jonathan) Chang**, a Master's student in **Psychology** at
 
 I am particularly interested in designing intelligent systems that facilitate meaningful human-AI interactions. My work often focuses on **Human-Robot Interaction (HRI)**, **Intelligent Tutoring Systems (ITS)**, and **Gerontechnology**. I believe that by combining psychological insights with engineering, we can create technology that is not only functional but also empathetic and accessible to diverse populations.
 
-Currently, I am a member at the **Social Lab HRI group** led by Prof. Hsiu-Ping Yueh. My recent projects include developing **ECRobot**, an ITS robot designed with an empathetic algorithm based on prospect theory, and **XiaoXiao**, a companion robot aimed at improving the well-being of older adults.
+Currently, I am a member at the **[Social Lab](https://homepage.ntu.edu.tw/~yueh/people.html) HRI group** led by Prof. [Hsiu-Ping Yueh](https://homepage.ntu.edu.tw/~yueh/yueh.html). My recent projects include developing **ECRobot**, an ITS robot designed with an empathetic algorithm based on prospect theory, and **XiaoXiao**, a companion robot aimed at improving the well-being of older adults.
 
-Previously, I completed my B.Sc. at NTU in an interdisciplinary program covering **HCI**
+Previously, I completed my B.Sc. at NTU in both [interdisciplinary program](/bachelor/) **HCI** and B.Sc. in agriculture, **Forestry**, with a minor in Psychology.
 
 When I'm not coding in Python or Swift, I enjoy cycling and running, I finished 2 half-marathon and several road running event in 2025.
 
