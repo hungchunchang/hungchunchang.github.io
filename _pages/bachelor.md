@@ -3,7 +3,8 @@ layout: page
 title: 校學士
 permalink: /bachelor/
 description: NTU Interdisciplinary B.Sc. — HCI
-nav: false
+nav: true
+nav_order: 9
 ---
 
 ## Intro

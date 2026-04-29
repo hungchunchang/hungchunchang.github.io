@@ -4,7 +4,7 @@ title: RoboCom
 description: A conversational robot promoting self-disclosure among older adults
 img: assets/img/7.jpg
 importance: 3
-related_publications: true
+related_publications: false
 category: course
 ---
 
