@@ -1,10 +1,17 @@
 # TODO
 
+## Done
+
 - 新增不同專案的影音畫面
-  - Touchhear
-  - ECRobot
-  - XiaoXiao
+  - [Touchhear](https://github.com/hungchunchang/touchhear)
+  - [ECRobot](https://github.com/hungchunchang/EmpathyCognitiveRobot)
+  - [Social Robotics Program](https://github.com/hungchunchang/SocialRoboticsProgram)
+  - [XiaoXiao](https://github.com/Jason0102/xiaoxiao_v1)
   - Museum Robot
+    - [jxw](https://github.com/hungchunchang/jxw)
+    - [meme](https://github.com/hungchunchang/meme)
+- tool
+  - [plp](https://github.com/hungchunchang/plp)
 - Course Projects
 - 校學士
   - 課程地圖
@@ -13,3 +20,7 @@
     - [mine](https://ntuhighlights.ntu.edu.tw/News_Content_n_171095_s_251545.html)
   - [podcast](https://podcasts.apple.com/tw/podcast/ep260-校園經營-竟然能自己命名-架構大學科系-臺大新推出的-校學士-如何加速跨領域學習/id1464228863?i=1000713006078)
   - [中央](https://ncusec.ncu.edu.tw/news/headlines_content.php?H_ID=4425)
+
+## Reference
+
+- [text](https://github.com/gatiaher/gatiaher.github.io/)
