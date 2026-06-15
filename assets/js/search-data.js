@@ -97,9 +97,9 @@ ninja.data = [{
           description: "An AR assistive learning system for visually-impaired students in topography learning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_touchhear/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-xiao-xiao",
+          title: 'Xiao Xiao',
+          description: "An exploration on designing conversation social robot",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_robots_for_elderly/";
             },},{id: "projects-設計社會機器人-designing-social-robots",
