@@ -42,6 +42,6 @@ When I'm not coding in Python or Swift, I enjoy cycling and running, I finished 
 
 ### Research Interests
 
-* **Human-Robot Interaction (HRI):** Social robots for education and elderly care.
-* **Intelligent Tutoring Systems:** Empathetic AI and multimodal learning interfaces.
-* **HCI & Accessibility:** AR assistive systems and user research for visually impaired and older adults.
+- **Human-Robot Interaction (HRI):** Social robots for education and elderly care.
+- **Intelligent Tutoring Systems:** Empathetic AI and multimodal learning interfaces.
+- **HCI & Accessibility:** AR assistive systems and user research for visually impaired and older adults.

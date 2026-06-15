@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 到日本
-date: 2026-06-01 
+date: 2026-06-01
 description: 京都大學前奏
 tags: kyoto intern exchange housing
 categories: exchange
