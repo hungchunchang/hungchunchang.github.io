@@ -44,29 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/bachelor/";
           },
-        },{id: "post-京都住宿",
-        
-          title: "京都住宿",
-        
-        description: "京都大學實習",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/kumamokodo/";
-          
-        },
-      },{id: "post-京都住宿",
-        
-          title: "京都住宿",
-        
-        description: "京都大學實習",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/history_of_kyoto/";
-          
-        },
-      },{id: "post-到日本",
+        },{id: "post-到日本",
         
           title: "到日本",
         
@@ -86,28 +64,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/housing-kyoto/";
-          
-        },
-      },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
-        
-          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
-          
-        },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
-        
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
       },{id: "books-因果革命",
@@ -131,26 +87,26 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-ecrobot",
-          title: 'ECRobot',
+          section: "News",},{id: "projects-智慧家教機器人-ecrobot",
+          title: '智慧家教機器人 ECRobot',
           description: "ECRobot (Empathy Cognition Robot) — an Intelligent Tutoring System with empathetic feedback design",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_ecrobot/";
-            },},{id: "projects-touchhear",
-          title: 'TouchHear',
+            },},{id: "projects-擴增實境觸聽系統-touchhear",
+          title: '擴增實境觸聽系統 TouchHear',
           description: "An AR assistive learning system for visually-impaired students in topography learning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_touchhear/";
-            },},{id: "projects-robocom",
-          title: 'RoboCom',
-          description: "A conversational robot promoting self-disclosure among older adults",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_RoboCom/";
-            },},{id: "projects-museum-guide-robot",
-          title: 'Museum Guide Robot',
-          description: "A social robot providing guided tours in museum settings",
+              window.location.href = "/projects/3_robots_for_elderly/";
+            },},{id: "projects-設計社會機器人-designing-social-robots",
+          title: '設計社會機器人 Designing Social Robots',
+          description: "A social robot providing guided tours in public settings",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_museum/";
+              window.location.href = "/projects/4_desiging_social_robots/";
             },},{id: "projects-social-robotics-program",
           title: 'Social Robotics Program',
           description: "Workshops and training programs on multimodal data analysis and voice-based social robots",
