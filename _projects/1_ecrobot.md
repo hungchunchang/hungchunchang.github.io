@@ -16,6 +16,8 @@ related_publications: false
 
 The ECRobot (Empathy Cognition Robot) project investigates the effect of empathetic design on intelligent tutoring systems (ITS). The system assists students in completing linguistic puzzles with LLM-generated, empathetic real-time feedback.
 
+In addition, we developed simulation students based on cognitive architecture. We first examine the fidelity and validity of the simulated students on the error pattern and  
+
 Developed individually over 3 months, the system consists of three main components:
 
 1. A customized **iPad app** (Swift) as the answering interface for linguistic puzzles.
