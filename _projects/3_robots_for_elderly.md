@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Xiao Xiao: a Conversational Robot for Elderly
+title: Xiao Xiao
 description: An exploration on designing conversation social robot
-img: assets/img/7.jpg
+img: assets/img/robocom.jpg
 importance: 3
 related_publications: true
 category: course
@@ -17,7 +17,7 @@ category: course
 
 RoboCom is a social robot designed to provide sustained interaction with older adults. The core goal is to induce **self-disclosure** through a carefully designed conversation agent — a persona of a recently graduated college student.
 
-Primary design and user testing results were presented at the **ARIS 2024** conference in Taipei. Subsequent work further examines the depth and patterns of self-disclosure induced across extended interactions.
+Primary design and user testing results were presented at the **ARIS 2024** {% cite lo2024memory %} conference in Taipei. Subsequent work further examines the depth and patterns of self-disclosure induced across extended interactions.
 
 Our first product is XiaoXiao, which is a companion robot designed for older adults, featuring a **voice-user interface (VUI)** with background storytelling to encourage extended, natural conversation.
 
