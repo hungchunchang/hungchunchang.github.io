@@ -1,11 +1,11 @@
 ---
 layout: page
-title: ECRobot
+title: 智慧家教機器人 ECRobot
 description: ECRobot (Empathy Cognition Robot) — an Intelligent Tutoring System with empathetic feedback design
 img: assets/img/ecrobot.png
 importance: 1
 category: lab
-related_publications: false
+related_publications: true
 ---
 
 **[GitHub](https://github.com/hungchunchang/EmpathyCognitiveRobot)**
@@ -16,7 +16,7 @@ related_publications: false
 
 The ECRobot (Empathy Cognition Robot) project investigates the effect of empathetic design on intelligent tutoring systems (ITS). The system assists students in completing linguistic puzzles with LLM-generated, empathetic real-time feedback.
 
-In addition, we developed simulation students based on cognitive architecture. We first examine the fidelity and validity of the simulated students on the error pattern and  
+In addition, we developed simulation students based on cognitive architecture. We first examine the fidelity and validity of the simulated students on the error pattern and
 
 Developed individually over 3 months, the system consists of three main components:
 
