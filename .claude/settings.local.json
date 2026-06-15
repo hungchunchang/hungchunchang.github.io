@@ -2,7 +2,11 @@
   "permissions": {
     "allow": [
       "Read(//Users/changhungchun/Admin/大學/校學士/分享/**)",
-      "Read(//Users/changhungchun/WorkSpace/Admin/大學/校學士/分享/海報/**)"
+      "Read(//Users/changhungchun/WorkSpace/Admin/大學/校學士/分享/海報/**)",
+      "Bash(npx prettier *)",
+      "Bash(npm install *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)"
     ]
   }
 }

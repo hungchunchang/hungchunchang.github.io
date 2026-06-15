@@ -1,11 +1,11 @@
 ---
 layout: page
-title: TouchHear
+title: 擴增實境觸聽系統 TouchHear
 description: An AR assistive learning system for visually-impaired students in topography learning
 img: assets/img/touchhear.jpg
 importance: 2
 category: lab
-giscus_comments: false
+discuss_comments: false
 ---
 
 **[GitHub](https://github.com/hungchunchang/touchhear)**
@@ -22,6 +22,4 @@ Built in **Python** with **PyQt6** as the main UI framework, combined with a **F
 
 ## 中文
 
-TouchHear 是一套專為視障學生設計的輔助學習系統，讓學生在觸摸點狀圖形時即時獲得聲音回饋，透過聽覺輔助進行空間與地形概念的學習。
-
-系統以 **Python** 搭配 **PyQt6** 圖形介面框架開發，並結合 **FEMTO BOLT RGB-D 相機** 進行即時手勢偵測。
+TouchHear 是一套專為視障學生設計的輔助學習系統，讓學生在觸摸點狀圖形時即時獲得聲音回饋，透過聽覺輔助進行空間與地形概念的學習。系統以 **Python** 搭配 **PyQt6** 圖形介面框架開發，並結合FEMTO BOLT RGB-D 相機 進行即時手勢偵測。包含教材編輯與偵測介面兩部分。

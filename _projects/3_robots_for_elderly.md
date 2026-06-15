@@ -1,10 +1,10 @@
 ---
 layout: page
-title: RoboCom
-description: A conversational robot promoting self-disclosure among older adults
+title: Xiao Xiao: a Conversational Robot for Elderly
+description: An exploration on designing conversation social robot
 img: assets/img/7.jpg
 importance: 3
-related_publications: false
+related_publications: true
 category: course
 ---
 
@@ -33,16 +33,13 @@ Key features:
 
 ## 中文
 
-RoboCom 是一款針對老年用戶設計的社交機器人，目的是透過對話代理人促進**自我揭露（self-disclosure）**行為。機器人的角色設定為一位剛畢業的大學生，藉由自然對話引導用戶分享個人經驗與想法。
+曉曉（XiaoXiao）是一款專為高齡使用者設計的陪伴型機器人，具備融入背景故事情境的**語音使用者介面（VUI）**，引導使用者進行自然且深入的對話。目的是透過對話代理人促進**自我揭露（self-disclosure）**行為。
+機器人的角色設定為一位剛畢業的大學生，藉由分享自身的生活經驗，以自然對話引導使用者分享個人經驗與想法。
 
-初步的設計構想與使用者測試結果發表於 **ARIS 2024**（2024 年，台北）。後續研究進一步分析自我揭露的深度與模式。
-
-曉曉（XiaoXiao）是一款專為老年用戶設計的陪伴型機器人，具備融入背景故事情境的**語音使用者介面（VUI）**，引導用戶進行自然且深入的對話。
-
-系統在用戶測試中達到平均每次互動 **40 分鐘以上**的參與時間。本專案亦為本人**學士論文**研究的核心，共進行了 28 次使用者研究，與 7 位老年受試者完成 4 次系統迭代。
+初步的設計構想與使用者測試結果發表於 **ARIS 2024** {% cite lo2024memory %}。後續研究進一步分析自我揭露的深度與模式。
 
 主要特色：
 
 - 背景故事框架，為對話提供情境脈絡
-- 語音介面，不依賴螢幕即可流暢互動
+- 語音介面，不依賴圖形介面流暢互動
 - 以高齡科技（gerontechnology）為基礎的使用者中心設計

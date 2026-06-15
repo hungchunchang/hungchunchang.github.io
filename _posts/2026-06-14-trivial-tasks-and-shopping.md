@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 京都生活：初來乍到
+title: 京都生活：日常部分
 date: 2026-06-13 15:12:16
-description: 京都大學的第一印象
+description: 在京都的日常作業
 tags: kyoto intern exchange housing
 categories: exchange
 published: false
@@ -17,3 +17,9 @@ published: false
 大阪梅田
 
 ## 一些手續
+
+### 區公所
+
+### 京都大學
+
+保險、生協、學生證

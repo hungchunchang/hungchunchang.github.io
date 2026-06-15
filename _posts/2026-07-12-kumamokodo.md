@@ -1,10 +1,11 @@
 ---
 layout: post
-title: 京都住宿
+title: 熊野古道
 date: 2026-06-13 15:12:16
 description: 京都大學實習
 tags: kyoto intern exchange housing
-categories: exchange
+categories: travel
+published: false
 ---
 
 ## 熊野古道

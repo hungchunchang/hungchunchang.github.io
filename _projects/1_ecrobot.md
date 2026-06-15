@@ -39,3 +39,5 @@ ECRobot（情感認知機器人）計畫旨在探討「同理心設計」對智�
 3. **FastAPI 後端**：負責資料庫管理並整合各模組。
 
 同理心回饋演算法的設計基於**展望理論（Prospect Theory）**。
+
+除此之外，用於檢驗系統效能的研究已經發表在企業資訊系統（Enterprise Information System）{% cite yueh2026adaptive %}。
