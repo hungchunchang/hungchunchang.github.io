@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 2026三月對於使用AI的想法 on using ai in mar 2026
+title: 2026三月對於使用AI的想法
 date: 2026-03-14 15:30:16
-description: recent thoughts on using ai
-tags: genai personal
-categories: genai, ai, user
+description: recent thoughts on using ai in mar 2026
+tags: genai personal ai user
+categories: genai
 published: false
 ---
 
@@ -12,6 +12,7 @@ published: false
 
 整體而言，AI對世界各個角落產生了翻天覆地的變化。那些繁瑣的文書工作、甚至傳統上被視為需要大量精力與經驗積累才得以完成的程式工作，AI 都能輕易地完成。
 
+我使用 AI 的目的有很多種，主要以系統開發為主，也會用來進行實驗或研究的設計，
 就現在而言，使用 AI 開發已經是每個人都會做的事情。
 要不要用 AI 開發就像是要不要開放學生使用計算機算數學。
 
