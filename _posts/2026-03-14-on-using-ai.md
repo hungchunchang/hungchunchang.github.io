@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2026三月對於使用AI的想法
+title: 2026 三月對於使用AI的想法
 date: 2026-03-14 15:30:16
 description: recent thoughts on using ai in mar 2026
 tags: genai personal ai user
