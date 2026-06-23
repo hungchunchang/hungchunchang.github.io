@@ -34,9 +34,7 @@ published: true
 
 因此，情境工程或許可以成為大語言模型實現落地應用的關鍵之一。從使用者研究的角度而言，缺乏對使用情境的理解，便難以設計出真正好用的系統；對於社會機器人研究來說，具有自然語言互動的能力，
 
-在人機互動、社會機器人的研究中，早已出現類似於情境工程的研究方法 (Syrdal et al., 2014; Koay et al., 2020; Leite et al., 2017)。
-
-Koay et al. (2020) 期望設計出具有沈浸感的原型，也衍伸出下列規則：
+在人機互動、社會機器人的研究中，早已出現類似於情境工程的研究方法 (Syrdal et al., 2014; Koay et al., 2020; Leite et al., 2017)。Koay et al. (2020) 期望設計出具有沈浸感的原型，也衍伸出下列規則：
 
 - 互動規則：
   - 必須基於真實的科技發展
@@ -56,12 +54,12 @@ Koay et al. (2020) 期望設計出具有沈浸感的原型，也衍伸出下列�
 
 ## Reference
 
-
 - Kalai, A. T., Nachum, O., Vempala, S. S., & Zhang, E. (2025). Why language models hallucinate. arXiv preprint arXiv:2509.04664.
 - Koay, K. L., Syrdal, D. S., Dautenhahn, K., & Walters, M. L. (2020). A narrative approach to human-robot interaction prototyping for companion robots. Paladyn, Journal of Behavioral Robotics, 11(1), 66-85.
 - Leite, I., McCoy, M., Lohani, M., Ullman, D., Salomons, N., Stokes, C., ... & Scassellati, B. (2017). Narratives with robots: The impact of interaction context and individual differences on story recall and emotional understanding. Frontiers in Robotics and AI, 4, 29.
 - Maslej, N. (2025). Artificial Intelligence Index Report 2025. Artificial Intelligence.
 - Syrdal, D. S., Dautenhahn, K., Koay, K. L., & Ho, W. C. (2014). Views from Within a Narrative: Evaluating Long-Term Human-Robot Interaction in a Naturalistic Environment Using Open-Ended Scenarios. In Cognit Comput (Vol. 6, Issue 4, pp. 741–759). https://doi.org/10.1007/s12559-014-9284-x
+- 最佳拍檔. (2025, August 14). 【人工智能】什么是上下文工程Context
+  Engineering \| 上下文Context \| Agent的缺点 \| 提示词工程 \| RAG \| MCP \|
+  写入 \| 选取 \| 压缩 \| 隔离 [Video recording]. https://www.youtube.com/watch?v=0J20wMjfuEc
 - 最佳拍檔. (2025, August 14). 【人工智能】什么是上下文工程Context Engineering \| 上下文Context \| Agent的缺点 \| 提示词工程 \| RAG \| MCP \| 写入 \| 选取 \| 压缩 \| 隔离 [Video recording]. https://www.youtube.com/watch?v=0J20wMjfuEc
-- 最佳拍檔. (2025, August 14). 【人工智能】什么是上下文工程Context Engineering \| 上下文Context \| Agent的缺点 \| 提示词工程 \| RAG \| MCP \| 写入 \| 选取 \| 压缩 \| 隔离 [Video recording]. https://www.youtube.com/watch?v=0J20wMjfuEc
-
