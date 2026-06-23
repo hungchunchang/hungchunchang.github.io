@@ -74,7 +74,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/first_impression_of_kyoto/";
+            window.location.href = "/blog/2026/first-impression-of-kyoto/";
           
         },
       },{id: "post-到日本",
@@ -85,7 +85,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/prelogue_osaka/";
+            window.location.href = "/blog/2026/prelogue-osaka/";
           
         },
       },{id: "post-京都住宿",
@@ -99,15 +99,15 @@ ninja.data = [{
             window.location.href = "/blog/2026/housing-kyoto/";
           
         },
-      },{id: "post-對於最近ai發展的想法",
+      },{id: "post-2026九月對於最近ai發展的想法",
         
-          title: "對於最近AI發展的想法",
+          title: "2026九月對於最近AI發展的想法",
         
-        description: "recent thoughts on using ai",
+        description: "recent thoughts on using ai in sep 2025",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/Recent-Status-of-LLM-and-AI/";
+            window.location.href = "/blog/2025/recent-status-of-LLM-and-AI/";
           
         },
       },{id: "books-因果革命",
