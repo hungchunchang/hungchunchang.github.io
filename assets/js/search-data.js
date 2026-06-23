@@ -44,11 +44,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/bachelor/";
           },
-        },{id: "post-京都生活-日常部分",
+        },{id: "post-京都生活-手續部分",
         
-          title: "京都生活：日常部分",
+          title: "京都生活：手續部分",
         
-        description: "在京都的日常作業",
+        description: "入日本國辦的手續",
         section: "Posts",
         handler: () => {
           
