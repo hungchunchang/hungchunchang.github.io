@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 對於最近AI發展的想法
-date: 2026-12-31 15:30:16
+date: 2025-09-30 15:30:16
 description: recent thoughts on using ai
 tags: genai personal
 categories: on_ai
