@@ -44,7 +44,40 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/bachelor/";
           },
-        },{id: "post-到日本",
+        },{id: "post-京都生活-日常部分",
+        
+          title: "京都生活：日常部分",
+        
+        description: "在京都的日常作業",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/initial-procedure/";
+          
+        },
+      },{id: "post-京都生活-日常部分",
+        
+          title: "京都生活：日常部分",
+        
+        description: "在京都的日常作業",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/shopping-1/";
+          
+        },
+      },{id: "post-京都生活-初來乍到",
+        
+          title: "京都生活：初來乍到",
+        
+        description: "京都大學的第一印象",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/first_impression_of_kyoto/";
+          
+        },
+      },{id: "post-到日本",
         
           title: "到日本",
         
