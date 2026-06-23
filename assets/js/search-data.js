@@ -99,6 +99,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/housing-kyoto/";
           
         },
+      },{id: "post-對於最近ai發展的想法",
+        
+          title: "對於最近AI發展的想法",
+        
+        description: "recent thoughts on using ai",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Recent-Status-of-LLM-and-AI/";
+          
+        },
       },{id: "books-因果革命",
           title: '因果革命',
           description: "",
