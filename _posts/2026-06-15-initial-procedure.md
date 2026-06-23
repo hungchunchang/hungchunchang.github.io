@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 京都生活：日常部分
+title: 京都生活：手續部分
 date: 2026-06-13 15:12:16
-description: 在京都的日常作業
-tags: kyoto intern exchange housing
+description: 入日本國辦的手續
+tags: kyoto intern exchange
 categories: exchange
 published: true
 ---
