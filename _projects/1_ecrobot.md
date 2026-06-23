@@ -26,6 +26,8 @@ Developed individually over 3 months, the system consists of three main componen
 
 The empathetic feedback algorithm is grounded in **Prospect Theory**.
 
+We examined the effectiveness and utility of the intelligent tutoring system ECRobot, a realtime multimodal system. For system robustness, we implemented stress tests towards multimodal inputs. On top of that, we utilized simulated students for examining the effectiveness of feedback from the ITS.
+
 ---
 
 ## 中文
