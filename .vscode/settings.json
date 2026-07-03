@@ -1,0 +1,39 @@
+{
+  // 手機 github.dev 寫 markdown 用的精簡設定(桌面 nvim 不受影響)。
+  // github.dev 開這個 repo 時會自動套用。
+
+  // ── 版面:窄螢幕去雜訊 ──
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "editor.lineNumbers": "off",
+  "breadcrumbs.enabled": false,
+  "editor.renderLineHighlight": "none",
+  "editor.stickyScroll.enabled": false,
+  "editor.folding": false,
+  "workbench.activityBar.location": "top",
+  "workbench.startupEditor": "none",
+
+  // ── 閱讀舒適度 ──
+  "editor.fontSize": 15,
+  "editor.lineHeight": 1.7,
+  "editor.padding.top": 12,
+
+  // ── 少打斷:寫作不要一直跳補全 ──
+  "editor.autoClosingBrackets": "never",
+  "editor.autoClosingQuotes": "never",
+  "editor.parameterHints.enabled": false,
+
+  // ── 自動存(仍需自己 commit&push 才發佈)──
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1500,
+
+  // ── markdown 專屬:純寫作,關掉程式碼式提示 ──
+  "[markdown]": {
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": { "other": false, "comments": false, "strings": false },
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.unicodeHighlight.invisibleCharacters": false
+  }
+}
