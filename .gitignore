@@ -12,3 +12,9 @@ node_modules/
 vendor
 .idea
 .venv
+
+# Local-only scratch space: notes, itineraries, raw photos, anything not
+# meant to be published. This repo is public, so nothing in here is
+# committed -- only the README that explains the folder.
+_private/*
+!_private/README.md
