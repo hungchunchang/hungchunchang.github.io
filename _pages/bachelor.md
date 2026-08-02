@@ -38,10 +38,10 @@ nav_order: 9
 
 ## 媒體報導
 
-在修業期間，多次受共教中心之邀參與招生與不同的分享活動，畢業之後也先後到中央大學以及均一高中分享交流。
+在修業期間，多次受共教中心之邀參與招生與不同的分享活動，畢業之後也先後到中央大學以及均一高中分享交流。完整時序見 [news](/news/)。
 
-- [NTU Highlights — 校學士介紹](https://ntuhighlights.ntu.edu.tw/cp_n_194945.html)
-- [NTU Highlights — 我的校學士故事](https://ntuhighlights.ntu.edu.tw/News_Content_n_171095_s_251545.html)
-- [Podcast — 校學士：自己命名、架構大學科系](https://podcasts.apple.com/tw/podcast/ep260-校園經營-竟然能自己命名-架構大學科系-臺大新推出的-校學士-如何加速跨領域學習/id1464228863?i=1000713006078)
-- [文章 — collego.edu.tw](https://collego.edu.tw/Media/Article/1622)
-- [中央大學報導](https://ncusec.ncu.edu.tw/news/headlines_content.php?H_ID=4425)
+- **2024.10** ｜ Collego 專訪 — [「雜食性」修課經驗，讓我踏上人機互動的學習之路](https://collego.edu.tw/Media/Article/1622)
+- **2025.03** ｜ 中央大學分享 — [中大推動「校學士」制度：突破學科壁壘，培養跨域競爭力](https://ncusec.ncu.edu.tw/news/headlines_content.php?H_ID=4425)
+- **2025.04** ｜ NTU Highlights vol. 117 — [我的校學士故事](https://ntuhighlights.ntu.edu.tw/News_Content_n_171095_s_251545.html)｜[Open Major at NTU 專題](https://ntuhighlights.ntu.edu.tw/cp_n_194945.html)
+- **2025.04** ｜ 臺大以含校學士在內的 INT 制度獲《泰晤士高等教育》亞洲大獎「傑出學生支持獎」，為台灣首例 — [遠見雜誌報導](https://www.gvm.com.tw/article/121133)
+- **2025.06** ｜ Podcast《大學問：大學生的大哉問》EP260 — [竟然能自己命名、架構大學科系！](https://podcasts.apple.com/tw/podcast/id1464228863?i=1000713006078)
