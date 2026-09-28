@@ -99,9 +99,9 @@ ninja.data = [{
             window.location.href = "/blog/2026/housing-kyoto/";
           
         },
-      },{id: "post-2026九月對於最近ai發展的想法",
+      },{id: "post-對於最近ai發展的想法-2025九月",
         
-          title: "2026九月對於最近AI發展的想法",
+          title: "對於最近AI發展的想法(2025九月)",
         
         description: "recent thoughts on using ai in sep 2025",
         section: "Posts",
