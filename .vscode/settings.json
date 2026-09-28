@@ -10,7 +10,7 @@
   "editor.renderLineHighlight": "none",
   "editor.stickyScroll.enabled": false,
   "editor.folding": false,
-  "workbench.activityBar.location": "top",
+  "workbench.activityBar.location": "default",
   "workbench.startupEditor": "none",
 
   // ── 閱讀舒適度 ──

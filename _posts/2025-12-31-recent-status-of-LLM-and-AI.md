@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2026九月對於最近AI發展的想法
+title: 對於最近AI發展的想法(2025九月)
 date: 2025-09-30 15:30:16
 description: recent thoughts on using ai in sep 2025
 tags: genai personal
