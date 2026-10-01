@@ -30,8 +30,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-校學士",
-          title: "校學士",
+        },{id: "nav-ibp",
+          title: "IBP",
           description: "NTU Interdisciplinary B.Sc. — HCI",
           section: "Navigation",
           handler: () => {
