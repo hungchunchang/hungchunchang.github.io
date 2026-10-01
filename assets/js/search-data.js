@@ -131,13 +131,13 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-智慧家教機器人-ecrobot",
-          title: '智慧家教機器人 ECRobot',
+          section: "News",},{id: "projects-ecrobot",
+          title: 'ECRobot',
           description: "ECRobot (Empathy Cognition Robot) — an Intelligent Tutoring System with empathetic feedback design",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_ecrobot/";
-            },},{id: "projects-擴增實境觸聽系統-touchhear",
-          title: '擴增實境觸聽系統 TouchHear',
+            },},{id: "projects-touchhear",
+          title: 'TouchHear',
           description: "An AR assistive learning system for visually-impaired students in topography learning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_touchhear/";
@@ -146,8 +146,8 @@ ninja.data = [{
           description: "An exploration on designing conversation social robot",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_robots_for_elderly/";
-            },},{id: "projects-設計社會機器人-designing-social-robots",
-          title: '設計社會機器人 Designing Social Robots',
+            },},{id: "projects-designing-social-robots",
+          title: 'Designing Social Robots',
           description: "A social robot providing guided tours in public settings",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_desiging_social_robots/";
@@ -156,16 +156,41 @@ ninja.data = [{
           description: "Workshops and training programs on multimodal data analysis and voice-based social robots",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_social_robotics_program/";
-            },},{id: "projects-live-loop",
-          title: 'Live Loop',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_live_loop/";
             },},{id: "projects-plp",
           title: 'PLP',
           description: "A personal tool to fetch bibtex citations, create note templates, and rename PDFs",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_plp/";
+            },},{id: "projects-智慧家教機器人-ecrobot",
+          title: '智慧家教機器人 ECRobot',
+          description: "ECRobot（情感認知機器人）：具同理回饋設計的智慧教學系統",
+          section: "Projects",handler: () => {
+              window.location.href = "/zh/projects/1_ecrobot/";
+            },},{id: "projects-擴增實境觸聽系統-touchhear",
+          title: '擴增實境觸聽系統 TouchHear',
+          description: "協助視障學生學習地形概念的擴增實境輔助學習系統",
+          section: "Projects",handler: () => {
+              window.location.href = "/zh/projects/2_touchhear/";
+            },},{id: "projects-曉曉-xiao-xiao",
+          title: '曉曉 Xiao Xiao',
+          description: "高齡陪伴對話機器人的設計探索",
+          section: "Projects",handler: () => {
+              window.location.href = "/zh/projects/3_robots_for_elderly/";
+            },},{id: "projects-設計社會機器人",
+          title: '設計社會機器人',
+          description: "在公共場域提供導覽的社會機器人",
+          section: "Projects",handler: () => {
+              window.location.href = "/zh/projects/4_desiging_social_robots/";
+            },},{id: "projects-社會機器人培訓課程",
+          title: '社會機器人培訓課程',
+          description: "多模態資料分析與語音社會機器人的工作坊與培訓課程",
+          section: "Projects",handler: () => {
+              window.location.href = "/zh/projects/5_social_robotics_program/";
+            },},{id: "projects-plp",
+          title: 'PLP',
+          description: "抓取 bibtex 引用、建立筆記模板並重新命名 PDF 的個人工具",
+          section: "Projects",handler: () => {
+              window.location.href = "/zh/projects/7_plp/";
             },},{
         id: 'social-cv',
         title: 'CV',
