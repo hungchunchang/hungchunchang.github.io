@@ -35,8 +35,8 @@
   type: time_table
   contents:
     - title: "Master's Thesis Research (in progress): Validity of LLMs as Simulated Students"
-      institution: Department of Psychology, National Taiwan University (Prof. Hsiu-Ping Yueh)
-      year: 2025/02 - Present
+      institution: Department of Psychology, National Taiwan University (Prof. Hsiu-Ping Yueh, Prof. Feng-Ming Tsao, Prof. Hiroaki Ogata)
+      year: 2026/02 - Present
       description:
         - "Recast the validity of an ability-conditioned LLM student simulator as a nomological network of four behavioral evidences: profile–behavior consistency, fidelity of error, boundary of competence, and stateful learning."
         - "Tested all four concurrently against real per-tier learner data from the PSLC DataShop Fractions 2012 corpus, using zero-shot prompting and a 2×2 fine-tuning ablation (reasoning × history)."

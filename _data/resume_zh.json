@@ -24,9 +24,9 @@
       "name": "碩士論文研究（進行中），國立臺灣大學心理學研究所",
       "position": "評估大型語言模型作為模擬學生的效度",
       "url": "",
-      "startDate": "2025-02-01",
+      "startDate": "2026-02-01",
       "endDate": "至今",
-      "summary": "指導教授：岳修平教授。",
+      "summary": "指導教授：岳修平教授、曹峰銘教授、Hiroaki Ogata 教授（京都大學）。",
       "highlights": [
         "將依能力設定的 LLM 模擬學生之效度，重新界定為由四項行為證據構成的 nomological network：個人檔案與行為一致性、錯誤的保真度、能力邊界，以及具狀態的學習（stateful learning）。",
         "以 PSLC DataShop Fractions 2012 語料中真實學生的分層資料，同時檢驗四項證據；比較 zero-shot prompting 與 2×2 微調設計（推理 × 歷程）。",
