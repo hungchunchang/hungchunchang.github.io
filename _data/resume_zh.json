@@ -85,8 +85,15 @@
     },
     {
       "institution": "國立臺灣大學",
-      "area": "校學士（人機互動）、森林環境暨資源學系",
-      "studyType": "學士",
+      "area": "生物資源暨農學院 森林環境暨資源學系",
+      "studyType": "農學士",
+      "startDate": "2019-09-01",
+      "endDate": "2025-01-31"
+    },
+    {
+      "institution": "國立臺灣大學",
+      "area": "校學士學位",
+      "studyType": "學士（人機互動）",
       "startDate": "2019-09-01",
       "endDate": "2025-01-31",
       "courses": [
