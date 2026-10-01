@@ -21,7 +21,7 @@ Primary design and user testing results were presented at the **ARIS 2024** {% c
 
 Our first product is XiaoXiao, which is a companion robot designed for older adults, featuring a **voice-user interface (VUI)** with background storytelling to encourage extended, natural conversation.
 
-The system achieved an average engagement duration of **40+ minutes** per session with older adult participants. The project served as the foundation of my **bachelor's thesis**, involving 28 user research sessions with 7 older adults across 4 system iterations.
+Conversations averaged **15 minutes** per session and **30 minutes** per participant. This work was published in the *International Journal of Human-Computer Interaction* {% cite yueh2026makes %}. The project served as the foundation of my **bachelor's thesis**, involving 28 user research sessions with 7 older adults across 4 system iterations.
 
 Key features:
 

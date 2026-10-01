@@ -1,3 +1,6 @@
+# Fallback only: the CV page renders assets/json/resume.json whenever it exists.
+# Keep this file in sync with resume.json.
+
 - title: General Information
   type: map
   contents:
@@ -8,94 +11,91 @@
     - name: Website
       value: https://hungchunchang.github.io
     - name: Languages
-      value: Mandarin, English, Japanese
+      value: Mandarin (native), English (fluent), Japanese (JLPT N3)
 
 - title: Education
   type: time_table
   contents:
     - title: M.Sc. Psychology
       institution: National Taiwan University, Taipei, Taiwan
-      year: 2025 - Present
+      year: 2025/02 - Present
       description:
-        - Focusing on Psychology and Social Robotics.
+        - "Thesis: Evaluation and Simulation of Student Learning Process with LLM."
     - title: B.Sc. Interdisciplinary Studies of Human-Computer Interaction & Forestry
       institution: National Taiwan University, Taipei, Taiwan
-      year: 2019 - 2025
+      year: 2019/09 - 2025/01
       description:
         - Minor in Psychology.
+        - "Thesis: Design and Evaluation of a Conversational Robot for the Elderly Based on Social Penetration Theory."
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
+    - title: "Master's Thesis Research: LLM Student Simulators as Measurement Instruments"
+      institution: Department of Psychology, National Taiwan University (Prof. Hsiu-Ping Yueh)
+      year: 2025/02 - Present
+      description:
+        - Tested whether an ability-conditioned LLM student simulator holds up as a construct, using a nomological network of behavioral evidence checked against real learner data from DataShop.
+        - "Probed the simulator's internal representations: the ability tier given in the prompt is linearly decodable and steerable, while item-level competence is not recoverable by any readout we could reach."
+        - "Built a learner model whose weights update during play: in-context learning left no trace across episodes, while weight updates consolidated rule knowledge that transferred to novel objects."
+    - title: Research Intern
+      institution: Learning and Educational Technologies Research Unit, Kyoto University (Prof. Hiroaki Ogata, Prof. Chia-Yu Hsu)
+      year: 2026/06 - 2026/08
+      description:
+        - Initiated the collaboration and secured the placement independently.
+        - Led a project on the validity of simulated students, accepted at ReLEAF@ICCE 2026 (first author).
     - title: Research Assistant
-      institution: Social Lab HRI group, National Taiwan University
+      institution: Social Lab HRI Group, National Taiwan University (Prof. Hsiu-Ping Yueh, Prof. Weijane Lin)
       year: 2022/11 - Present
       description:
-        - Developed system individually in 5+ projects on human-robot interaction.
-        - Held 2 workshops on multimodal data analysis and voice-based social robot.
-        - Organized 2 training programs for undergrad students.
-        - Authored bachelor thesis research, conducted user research over 28 sessions with 7 older adults, and finished 4 system iterations individually.
-    - title: Teaching Assistant
+        - Designed the simulated-student evaluation for an intelligent robot tutor (EIS 2026) and the manipulation check for a robot-personality study (IJHCI 2026).
+        - Sole developer of research systems deployed with real users in a museum, a library, and with older adults.
+        - Held 2 workshops on multimodal data analysis and voice-based social robots and 4 on social robot programming; mentored 3 undergraduate projects.
+
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Teaching Assistant, Social Robotics
       institution: Department of Psychology, National Taiwan University
       year: 2025/02 - Present
       description:
-        - Course: Classics on Social Robotics (Prof. Hsiu Ping, Yueh).
-        - Held workshop for 18+ hours for 11 students covering literature review, user testing, prototyping, and programming for social robots.
-        - Coauthored 2 conference posters along with the class.
+        - "Led 18+ hours of TA sessions across 4 semesters: literature review, user research, prototyping, and programming for social robotic systems."
 
 - title: Research Projects
   type: time_table
   contents:
-    - title: ECRobot, an ITS robot
-      year: 2025/09 - Present
+    - title: ECRobot, a robot tutor (sole developer)
+      year: 2025/09 - 2025/12
       description:
-        - Developed a system containing an iPad app (Swift) for handwriting, NAO robot (Python) for VUI, and FastAPI backend.
-        - Designed empathetic algorithm based on prospect theory.
-    - title: TouchHear, an AR assistive learning system
-      year: 2025/09 - Present
-      description:
-        - Developed as learning tools for visually impaired students, providing audio feedback for dotted figures.
-    - title: XiaoXiao, a companion robot
-      year: 2024/03 - 2025/12
-      description:
-        - Developed VUI system with background storytelling, achieving 40+ minutes of average engagement with older adults.
-    - title: Social Robot as Museum Guide
+        - iPad app (Swift) for handwriting input, NAO robot (Qi Python) as voice user interface, FastAPI backend; used in a between-subjects learning study.
+        - Instantiated prospect theory as an empathetic feedback algorithm.
+    - title: Social Robot Design Platform (initiator & sole developer)
       year: 2025/02 - Present
       description:
-        - Project focused on robotic guidance in museum settings.
+        - Web-based end-user programming tool implementing a design language for social robot behavior.
+        - Refined with four groups of student researchers in a research-through-design process over 6 months.
+    - title: TouchHear, an AR assistive learning system (sole developer)
+      year: 2025/09 - 2025/12
+      description:
+        - Real-time fingertip tracking on a depth camera that turns printed images into touch-responsive audio surfaces for visually impaired learners.
+    - title: Companion robot for older adults
+      year: 2024/03 - 2025/12
+      description:
+        - Operationalized discourse affectiveness into measurable linguistic indicators and validated the manipulation with NLP-based checks.
 
-- title: Open Source Projects
+- title: Honors and Funding
   type: time_table
   contents:
-    - title: al-folio
-      year: 2015 - Present
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
+    - year: 2026
+      items:
+        - International PhD/Master's Students Co-Advising Project, NT$250,000 (Kyoto University residency).
+        - NTU College of Science Travel Grant and Scholarship, NT$15,000.
     - year: 2025
       items:
-        - Cathay Charity Foundation 2025 Excellence Scholarship (Human-robot interaction for older adults).
-    - year: 2024
-      items:
-        - Startup Prize (Design and implementation of conversation robots).
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Human-Computer Interaction
-      items:
-        - User Research & Gerontechnology
-        - Multimodal Data Analysis
-    - title: Robotics & Psychology
-      items:
-        - Social Robot Interaction (HRI)
-        - Intelligent Tutoring Systems (ITS)
-        - Cognitive & Experimental Psychology
+        - Cathay Charity Foundation Excellence Scholarship, NT$160,000.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Skills:</u> Python, Java, Matlab, LaTeX.
-    - <u>Hobbies:</u> Running, Cycling
+    - <u>Skills:</u> Python, Swift, Java, MATLAB, LaTeX.
+    - <u>Hobbies:</u> Long-distance running, cycling.

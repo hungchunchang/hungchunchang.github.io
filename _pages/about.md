@@ -28,20 +28,20 @@ latest_posts:
 
 ## Biography
 
-Hi, I am **Hung-Chun (Jonathan) Chang**, a Master's student in **Psychology** at **National Taiwan University (NTU)**. My research lives at the intersection of **Human-Computer Interaction (HCI)** and **Social Robotics**.
+Hi, I am **Hung-Chun (Jonathan) Chang**, a Master's student in **Psychology** at **National Taiwan University (NTU)**, advised by Prof. [Hsiu-Ping Yueh](https://homepage.ntu.edu.tw/~yueh/yueh.html) in the [Social Lab](https://homepage.ntu.edu.tw/~yueh/people.html).
 
-I am particularly interested in designing intelligent systems that facilitate meaningful human-AI interactions. My work often focuses on **Human-Robot Interaction (HRI)**, **Intelligent Tutoring Systems (ITS)**, and **Gerontechnology**. I believe that by combining psychological insights with engineering, we can create technology that is not only functional but also empathetic and accessible to diverse populations.
+I study whether computational models of learners hold up against real learning data. My current work treats **LLM-based simulated students** as measurement instruments and asks what they actually capture: how closely their behavior matches real learners in [DataShop](https://pslcdatashop.web.cmu.edu/) data, what their internal representations encode, and whether anything they learn persists beyond the context window. Part of this work was done during a research residency with Prof. Hiroaki Ogata at **Kyoto University** and was accepted at the ReLEAF workshop at **ICCE 2026**.
 
-Currently, I am a member at the **[Social Lab](https://homepage.ntu.edu.tw/~yueh/people.html) HRI group** led by Prof. [Hsiu-Ping Yueh](https://homepage.ntu.edu.tw/~yueh/yueh.html). My recent projects include developing **ECRobot**, an ITS robot designed with an empathetic algorithm based on prospect theory, and **XiaoXiao**, a companion robot aimed at improving the well-being of older adults.
+I also build the systems I study. I was the sole developer of **ECRobot**, a robot tutor used in a between-subjects learning study, and of a web-based **end-user programming platform** for authoring social robot behavior. I have deployed social robots with real users in a museum, a library, and with older adults.
 
-Previously, I completed my B.Sc. at NTU in both [interdisciplinary program](/bachelor/) **HCI** and B.Sc. in agriculture, **Forestry**, with a minor in Psychology.
+Previously, I completed my B.Sc. at NTU in the [interdisciplinary program](/bachelor/) in **Human-Computer Interaction** and in **Forestry**, with a minor in Psychology.
 
-When I'm not coding in Python or Swift, I enjoy cycling and running, I finished 2 half-marathon and several road running event in 2025.
+Outside research, I run long distances and cycle; I finished two half marathons and several road races in 2025.
 
 ---
 
 ### Research Interests
 
-- **Human-Robot Interaction (HRI):** Social robots for education and elderly care.
-- **Intelligent Tutoring Systems:** Empathetic AI and multimodal learning interfaces.
-- **HCI & Accessibility:** AR assistive systems and user research for visually impaired and older adults.
+- **Learner modeling:** simulated students, construct validity, and comparing model and human learning.
+- **Intelligent tutoring systems:** building tutors and using them as testbeds for learning research.
+- **Human-robot interaction:** social robots for education and older adults.
