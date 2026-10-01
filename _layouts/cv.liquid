@@ -79,16 +79,21 @@ layout: default
 
     <article>
       <div class="cv">
-        {% for data in site.data.resume %}
+        {% assign cur_lang = page.lang | default: site.lang %}
+        {% assign resume_data = site.data.resume %}
+        {% if page.resume_data %}{% assign resume_data = site.data[page.resume_data] %}{% endif %}
+        {% for data in resume_data %}
           {% if site.jsonresume and site.jsonresume.size > 0 %}
             {% unless site.jsonresume contains data[0] %}
               {% continue %}
             {% endunless %}
           {% endif %}
           {% if data[0] == 'meta' or data[1].size == 0 %} {% continue %} {% endif %}
+          {% assign section_key = data[0] %}
+          {% assign section_title = site.data.i18n[cur_lang].cv_sections[section_key] | default: section_key | capitalize %}
           <a class="anchor" id="{{ data[0] }}"></a>
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+            <h3 class="card-title font-weight-medium">{{ section_title }}</h3>
             <div>
               {% case data[0] %}
                 {% when 'basics' %}

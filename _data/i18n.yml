@@ -1,0 +1,23 @@
+# Strings for the bilingual pages. A page opts in with `lang:` and links its
+# counterpart with `translation:`; English nav pages carry `title_translated:`.
+en:
+  other_lang: zh-TW
+  switch_label: 中文
+zh-TW:
+  prefix: zh
+  other_lang: en
+  switch_label: EN
+  cv_sections:
+    basics: 基本資料
+    work: 研究與工作經歷
+    education: 學歷
+    publications: 著作
+    projects: 研究專案
+    awards: 獎助
+    skills: 技能
+    languages: 語言
+    interests: 興趣
+  project_categories:
+    lab: 實驗室
+    course: 課程
+    fun: 個人

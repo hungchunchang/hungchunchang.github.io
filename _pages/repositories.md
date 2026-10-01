@@ -17,6 +17,7 @@ nav_order: 4
   {% endfor %}
 </div>
 
+title_translated: 程式庫
 ---
 
 {% if site.repo_trophies.enabled %}

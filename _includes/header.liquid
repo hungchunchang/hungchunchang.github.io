@@ -42,15 +42,18 @@
 
       <div class="collapse navbar-collapse text-right" id="navbarNav">
         <ul class="navbar-nav ml-auto flex-nowrap">
-          {% for page in site.pages %}
-            {% if page.permalink == '/' %} {% assign about_title = page.title %} {% endif %}
+          {% assign cur_lang = page.lang | default: site.lang %}
+          {% assign home_url = '/' %}
+          {% if cur_lang != site.lang %}{% assign home_url = '/' | append: site.data.i18n[cur_lang].prefix | append: '/' %}{% endif %}
+          {% for p in site.pages %}
+            {% if p.permalink == home_url %} {% assign about_title = p.title %} {% endif %}
           {% endfor %}
 
           <!-- About -->
-          <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
-            <a class="nav-link" href="{{ '/' | relative_url }}">
+          <li class="nav-item {% if page.permalink == home_url %}active{% endif %}">
+            <a class="nav-link" href="{{ home_url | relative_url }}">
               {{- about_title }}
-              {% if page.permalink == '/' %}
+              {% if page.permalink == home_url %}
                 <span class="sr-only">(current)</span>
               {% endif %}
             </a>
@@ -99,6 +102,7 @@
                 </li>
               {% else %}
                 {% assign parent_link = p.permalink | remove: 'index.html' %}
+                {% if cur_lang != site.lang and p.translation %}{% assign parent_link = p.translation %}{% endif %}
                 <li class="nav-item {% if page.url contains parent_link %}active{% endif %}">
                   {%- if p.permalink contains '://' -%}
                     {%- assign url = p.permalink -%}
@@ -107,8 +111,13 @@
                   {%- else -%}
                     {%- assign url = p.url -%}
                   {%- endif %}
+                  {%- assign nav_title = p.title -%}
+                  {%- if cur_lang != site.lang -%}
+                    {%- if p.translation -%}{%- assign url = p.translation -%}{%- endif -%}
+                    {%- assign nav_title = p.title_translated | default: p.title -%}
+                  {%- endif %}
                   <a class="nav-link" href="{{ url | relative_url }}">
-                    {{- p.title }}
+                    {{- nav_title }}
                     {% if page.url contains p.url %}
                       <span class="sr-only">(current)</span>
                     {% endif %}
@@ -117,6 +126,14 @@
               {% endif %}
             {% endif %}
           {% endfor %}
+          {% if page.translation %}
+            <!-- Language toggle -->
+            <li class="nav-item">
+              <a class="nav-link" href="{{ page.translation | relative_url }}" lang="{{ site.data.i18n[cur_lang].other_lang }}">
+                {{- site.data.i18n[cur_lang].switch_label -}}
+              </a>
+            </li>
+          {% endif %}
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">

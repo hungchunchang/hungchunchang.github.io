@@ -6,14 +6,11 @@ img: assets/img/robocom.jpg
 importance: 3
 related_publications: true
 category: course
+translation: /zh/projects/3_robots_for_elderly/
 ---
 
 **[Project Website](https://socrobot.ntu.edu.tw/Robert's%20House/index.html#)**
 **[GitHub](https://github.com/Jason0102/xiaoxiao_v1)**
-
----
-
-## English
 
 RoboCom is a social robot designed to provide sustained interaction with older adults. The core goal is to induce **self-disclosure** through a carefully designed conversation agent — a persona of a recently graduated college student.
 
@@ -28,18 +25,3 @@ Key features:
 - Background narrative framing to provide conversation context
 - VUI enabling fluid spoken interaction without screen dependency
 - Iterative user-centered design grounded in gerontechnology
-
----
-
-## 中文
-
-曉曉（XiaoXiao）是一款專為高齡使用者設計的陪伴型機器人，具備融入背景故事情境的**語音使用者介面（VUI）**，引導使用者進行自然且深入的對話。目的是透過對話代理人促進**自我揭露（self-disclosure）**行為。
-機器人的角色設定為一位剛畢業的大學生，藉由分享自身的生活經驗，以自然對話引導使用者分享個人經驗與想法。
-
-初步的設計構想與使用者測試結果發表於 **ARIS 2024** {% cite lo2024memory %}。後續研究進一步分析自我揭露的深度與模式。
-
-主要特色：
-
-- 背景故事框架，為對話提供情境脈絡
-- 語音介面，不依賴圖形介面流暢互動
-- 以高齡科技（gerontechnology）為基礎的使用者中心設計

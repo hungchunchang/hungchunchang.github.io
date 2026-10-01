@@ -1,0 +1,253 @@
+{
+  "basics": {
+    "name": "張閎鈞 Hung-Chun Chang",
+    "label": "國立臺灣大學心理學研究所 碩士生",
+    "image": "hcc.jpg",
+    "email": "jonathanchang9@gmail.com",
+    "url": "https://hungchunchang.github.io",
+    "summary": "我研究學習者的計算模型能不能經得起真實學習資料的檢驗，目前聚焦於以大型語言模型建構的模擬學生；這些研究所用的家教系統與社會機器人，也多由我自己開發。",
+    "location": {
+      "city": "臺北",
+      "countryCode": "TW",
+      "region": "臺灣"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "hungchunchang",
+        "url": "https://github.com/hungchunchang"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "碩士論文研究（進行中），國立臺灣大學心理學研究所",
+      "position": "評估大型語言模型作為模擬學生的效度",
+      "url": "",
+      "startDate": "2025-02-01",
+      "endDate": "至今",
+      "summary": "指導教授：岳修平教授。",
+      "highlights": [
+        "檢驗依能力設定的 LLM 模擬學生能否成立為一個構念（construct）：以 nomological network 組織行為證據，並與 DataShop 的真實學生資料比對。",
+        "探測模擬學生的內部表徵：prompt 指定的能力層級可被線性解碼、也可被 steering 操弄；但逐題層級的實際能力（competence），在我們能達到的所有讀出方法中都讀不到。",
+        "建構一個在互動中會更新權重的學習者模型：in-context learning 跨回合不留下痕跡，權重更新則能鞏固規則知識，並遷移到新物件。"
+      ]
+    },
+    {
+      "name": "京都大學 學術情報媒體中心 Learning and Educational Technologies Research Unit",
+      "position": "研究實習",
+      "url": "",
+      "startDate": "2026-06-01",
+      "endDate": "2026-08-31",
+      "summary": "Hiroaki Ogata 教授、Chia-Yu Hsu 教授。",
+      "highlights": [
+        "自行發起合作並談定駐點，由「碩博士生跨國共同指導計畫」補助。",
+        "主導模擬學生效度研究，獲 ReLEAF@ICCE 2026 接受（第一作者）。"
+      ]
+    },
+    {
+      "name": "國立臺灣大學 Social Lab 人機互動組",
+      "position": "研究助理",
+      "url": "",
+      "startDate": "2022-11-01",
+      "endDate": "至今",
+      "summary": "岳修平教授、林維真教授；心理學系。",
+      "highlights": [
+        "為機器人家教研究設計模擬學生評估方法（Enterprise Information Systems, 2026），並為機器人人格研究建立操弄檢核（International Journal of Human-Computer Interaction, 2026）。",
+        "獨立開發多套研究系統，於博物館、圖書館與高齡者情境實際部署。",
+        "舉辦 2 場多模態資料分析與語音社會機器人工作坊、4 場社會機器人程式設計工作坊；指導 3 個大學部專題。"
+      ]
+    },
+    {
+      "name": "國立臺灣大學心理學系",
+      "position": "社會機器人課程 教學助理",
+      "url": "",
+      "startDate": "2025-02-01",
+      "endDate": "至今",
+      "summary": "岳修平教授。",
+      "highlights": [
+        "四個學期累計帶領 18 小時以上的助教課：文獻回顧、使用者研究、原型製作，以及社會機器人系統程式設計。"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "國立臺灣大學",
+      "area": "心理學",
+      "studyType": "碩士",
+      "startDate": "2025-02-01",
+      "endDate": "至今",
+      "courses": [
+        "神經與行為模型建構",
+        "實驗設計",
+        "心理學實驗法"
+      ]
+    },
+    {
+      "institution": "國立臺灣大學",
+      "area": "校學士（人機互動）、森林環境暨資源學系",
+      "studyType": "學士",
+      "startDate": "2019-09-01",
+      "endDate": "2025-01-31",
+      "courses": [
+        "輔修：心理學",
+        "論文：基於社會滲透理論之高齡者對話機器人設計與評估"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Does an Ability-Conditioned LLM Student Simulator Hold Up as a Construct?",
+      "publisher": "1st Workshop on Trustworthy Educational Data Sharing and Secondary Use: The ReLEAF Data Challenge, ICCE 2026",
+      "releaseDate": "2026-12",
+      "url": "",
+      "summary": "First author. Accepted; to appear."
+    },
+    {
+      "name": "What Makes a Robot Feel Affective? Verbal Cue Types and the Role of Agreeableness in Older Adults' Perception of Robot Personality",
+      "publisher": "International Journal of Human-Computer Interaction",
+      "releaseDate": "2026",
+      "url": "https://doi.org/10.1080/10447318.2026.2722790",
+      "summary": "Second author."
+    },
+    {
+      "name": "Adaptive Empathy Evaluation: An Intelligent Social Robot Tutor with Multimodal Assessment",
+      "publisher": "Enterprise Information Systems",
+      "releaseDate": "2026",
+      "url": "https://doi.org/10.1080/17517575.2026.2683825",
+      "summary": "Second author."
+    },
+    {
+      "name": "Empathic AI-Powered Cognitive Robots as Tutors: Assessing Their Impact on Learning Performance in Accelerated Learning Contexts",
+      "publisher": "Educational Psychology",
+      "releaseDate": "2026",
+      "url": "",
+      "summary": "Fourth author. Under revision."
+    },
+    {
+      "name": "Assessment and Evaluation of Self-Disclosure, Application of Behavior Construct and Semantic Analysis",
+      "publisher": "16th International Conference of Digital Archives and Digital Humanities (DADH 2025)",
+      "releaseDate": "2025-11",
+      "url": "",
+      "summary": "First author."
+    }
+  ],
+  "projects": [
+    {
+      "name": "ECRobot 機器人家教（獨立開發）",
+      "summary": "智慧教學系統：iPad 手寫作答 App（Swift）、NAO 機器人語音介面（Qi Python）與 FastAPI 後端，用於受試者間學習實驗。",
+      "highlights": [
+        "將展望理論（prospect theory）實作為機器人家教的同理回饋演算法。",
+        "設計模擬學生流程與評估方法，並撰寫論文初稿。"
+      ],
+      "startDate": "2025-09-01",
+      "endDate": "2025-12-31",
+      "url": "https://github.com/hungchunchang/EmpathyCognitiveRobot"
+    },
+    {
+      "name": "社會機器人設計平台（發起人、獨立開發）",
+      "summary": "網頁端終端使用者程式設計工具，實作一套社會機器人行為的設計語言；設計語言源自開發 7 套社會機器人系統的經驗。",
+      "highlights": [
+        "與四組學生研究者以設計研究（research through design）方式迭代六個月。",
+        "於實驗室實驗中部署超過一個月。"
+      ],
+      "startDate": "2025-02-01",
+      "endDate": "至今",
+      "url": "https://github.com/hungchunchang/meme"
+    },
+    {
+      "name": "TouchHear 擴增實境觸聽系統（獨立開發）",
+      "summary": "以深度相機即時追蹤指尖，讓任何印刷圖片成為可觸摸發聲的介面，供視障學習者使用。",
+      "highlights": [
+        "以自動追蹤取代原研究流程中需要實驗者在旁手動提示的步驟。",
+        "開發編輯介面，讓非程式設計者為印刷圖片的區域指定音訊。"
+      ],
+      "startDate": "2025-09-01",
+      "endDate": "2025-12-31",
+      "url": "https://github.com/hungchunchang/touchhear"
+    },
+    {
+      "name": "高齡陪伴機器人",
+      "summary": "資料分析與前端開發。",
+      "highlights": [
+        "將話語的情感性操作化為可量測的語言指標，並以 NLP 方法驗證操弄。",
+        "每次對話平均 15 分鐘，每位參與者平均 30 分鐘。"
+      ],
+      "startDate": "2024-03-01",
+      "endDate": "2025-12-31",
+      "url": ""
+    }
+  ],
+  "awards": [
+    {
+      "title": "碩博士生跨國共同指導計畫（新臺幣 250,000 元）",
+      "date": "2026-06-01",
+      "awarder": "國立臺灣大學",
+      "summary": "補助於京都大學三個月的駐點研究，由 Hiroaki Ogata 教授與 Chia-Yu Hsu 教授共同指導。"
+    },
+    {
+      "title": "理學院國際交流獎學金（新臺幣 15,000 元）",
+      "date": "2026-06-01",
+      "awarder": "國立臺灣大學理學院",
+      "summary": "補助京都大學駐點研究。"
+    },
+    {
+      "title": "2025 國泰卓越獎助計畫（新臺幣 160,000 元）",
+      "date": "2025-12-01",
+      "awarder": "國泰慈善基金會",
+      "summary": "補助高齡陪伴機器人研究。"
+    }
+  ],
+  "skills": [
+    {
+      "name": "程式與工具",
+      "keywords": [
+        "Python",
+        "Swift",
+        "Java",
+        "MATLAB",
+        "LaTeX",
+        "FastAPI",
+        "React",
+        "TypeScript"
+      ]
+    },
+    {
+      "name": "研究方法",
+      "keywords": [
+        "建構效度",
+        "實驗設計",
+        "表徵探測",
+        "使用者研究",
+        "多模態資料分析"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "中文",
+      "fluency": "母語"
+    },
+    {
+      "language": "英文",
+      "fluency": "流利"
+    },
+    {
+      "language": "日文",
+      "fluency": "JLPT N3"
+    }
+  ],
+  "interests": [
+    {
+      "name": "長距離跑步",
+      "keywords": [
+        "半程馬拉松",
+        "路跑"
+      ]
+    },
+    {
+      "name": "單車",
+      "keywords": []
+    }
+  ]
+}

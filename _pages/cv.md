@@ -7,4 +7,6 @@ nav_order: 5
 cv_pdf: long.pdf # you can also use external links here
 toc:
   sidebar: left
+translation: /zh/cv/
+title_translated: 履歷
 ---

@@ -19,8 +19,6 @@
     - title: M.Sc. Psychology
       institution: National Taiwan University, Taipei, Taiwan
       year: 2025/02 - Present
-      description:
-        - "Thesis: Evaluation and Simulation of Student Learning Process with LLM."
     - title: B.Sc. Interdisciplinary Studies of Human-Computer Interaction & Forestry
       institution: National Taiwan University, Taipei, Taiwan
       year: 2019/09 - 2025/01
@@ -31,7 +29,7 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: "Master's Thesis Research: LLM Student Simulators as Measurement Instruments"
+    - title: "Master's Thesis Research (in progress): Validity of LLMs as Simulated Students"
       institution: Department of Psychology, National Taiwan University (Prof. Hsiu-Ping Yueh)
       year: 2025/02 - Present
       description:
@@ -89,10 +87,10 @@
     - year: 2026
       items:
         - International PhD/Master's Students Co-Advising Project, NT$250,000 (Kyoto University residency).
-        - NTU College of Science Travel Grant and Scholarship, NT$15,000.
+        - NTU College of Science International Exchange Scholarship, NT$15,000.
     - year: 2025
       items:
-        - Cathay Charity Foundation Excellence Scholarship, NT$160,000.
+        - Cathay Charity Foundation 2025 Excellence Scholarship, NT$160,000.
 
 - title: Other Interests
   type: list
