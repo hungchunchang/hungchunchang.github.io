@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 校學士
+title: IBP
 permalink: /bachelor/
 description: NTU Interdisciplinary B.Sc. — HCI
 nav: true

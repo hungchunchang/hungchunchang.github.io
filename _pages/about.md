@@ -35,7 +35,7 @@ I study whether computational models of learners hold up against real learning d
 
 I also build the systems I study. I was the sole developer of **ECRobot**, a robot tutor used in a between-subjects learning study, and of a web-based **end-user programming platform** for authoring social robot behavior. I have deployed social robots with real users in a museum, a library, and with older adults.
 
-Previously, I completed my B.Sc. at NTU in the [interdisciplinary program](/bachelor/) in **Human-Computer Interaction** and in **Forestry**, with a minor in Psychology.
+Previously, I earned two bachelor's degrees at NTU: a **B.S. in Interdisciplinary Studies of Human-Computer Interaction** through the [University Interdisciplinary Bachelor's Program](/bachelor/), and a **B.S. in Agriculture** from the Department of Forestry and Resource Conservation, with a minor in Psychology.
 
 Outside research, I run long distances and cycle; I finished two half marathons and several road races in 2025.
 

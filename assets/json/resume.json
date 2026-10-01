@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Hung-Chun Chang",
-    "label": "M.Sc. Student in Psychology, National Taiwan University",
+    "label": "M.S. Student in Psychology, National Taiwan University",
     "image": "hcc.jpg",
     "email": "jonathanchang9@gmail.com",
     "url": "https://hungchunchang.github.io",
@@ -74,7 +74,7 @@
     {
       "institution": "National Taiwan University",
       "area": "Psychology",
-      "studyType": "M.Sc.",
+      "studyType": "M.S.",
       "startDate": "2025-02-01",
       "endDate": "present",
       "courses": [
@@ -85,14 +85,21 @@
     },
     {
       "institution": "National Taiwan University",
-      "area": "Interdisciplinary Studies of Human-Computer Interaction & Forestry",
-      "studyType": "B.Sc.",
+      "area": "University Interdisciplinary Bachelor's Program",
+      "studyType": "B.S. in Interdisciplinary Studies of Human-Computer Interaction",
       "startDate": "2019-09-01",
       "endDate": "2025-01-31",
       "courses": [
         "Minor: Psychology",
         "Thesis: Design and Evaluation of a Conversational Robot for the Elderly Based on Social Penetration Theory"
       ]
+    },
+    {
+      "institution": "National Taiwan University",
+      "area": "Department of Forestry and Resource Conservation, College of Bio-Resources and Agriculture",
+      "studyType": "B.S. in Agriculture",
+      "startDate": "2019-09-01",
+      "endDate": "2025-01-31"
     }
   ],
   "publications": [
@@ -186,7 +193,7 @@
       "summary": "Funded a three-month residency at Kyoto University, co-advised by Prof. Hiroaki Ogata and Prof. Chia-Yu Hsu."
     },
     {
-      "title": "College of Science International Exchange Scholarship (NT$15,000)",
+      "title": "College of Science Travel Grant and Scholarship (NT$15,000)",
       "date": "2026-06-01",
       "awarder": "College of Science, National Taiwan University",
       "summary": "Supported the Kyoto University residency."

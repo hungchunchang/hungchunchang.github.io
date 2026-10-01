@@ -16,15 +16,18 @@
 - title: Education
   type: time_table
   contents:
-    - title: M.Sc. Psychology
+    - title: M.S. Psychology
       institution: National Taiwan University, Taipei, Taiwan
       year: 2025/02 - Present
-    - title: B.Sc. Interdisciplinary Studies of Human-Computer Interaction & Forestry
-      institution: National Taiwan University, Taipei, Taiwan
+    - title: B.S. in Interdisciplinary Studies of Human-Computer Interaction
+      institution: University Interdisciplinary Bachelor's Program, National Taiwan University, Taipei, Taiwan
       year: 2019/09 - 2025/01
       description:
         - Minor in Psychology.
         - "Thesis: Design and Evaluation of a Conversational Robot for the Elderly Based on Social Penetration Theory."
+    - title: B.S. in Agriculture
+      institution: Department of Forestry and Resource Conservation, National Taiwan University, Taipei, Taiwan
+      year: 2019/09 - 2025/01
 
 - title: Research Experience
   type: time_table
@@ -87,7 +90,7 @@
     - year: 2026
       items:
         - International PhD/Master's Students Co-Advising Project, NT$250,000 (Kyoto University residency).
-        - NTU College of Science International Exchange Scholarship, NT$15,000.
+        - NTU College of Science Travel Grant and Scholarship, NT$15,000.
     - year: 2025
       items:
         - Cathay Charity Foundation 2025 Excellence Scholarship, NT$160,000.
