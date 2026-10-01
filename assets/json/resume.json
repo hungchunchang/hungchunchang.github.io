@@ -87,6 +87,13 @@
     },
     {
       "institution": "National Taiwan University",
+      "area": "Department of Forestry and Resource Conservation, College of Bio-Resources and Agriculture",
+      "studyType": "B.S. in Agriculture",
+      "startDate": "2019-09-01",
+      "endDate": "2025-01-31"
+    },
+    {
+      "institution": "National Taiwan University",
       "area": "University Interdisciplinary Bachelor's Program",
       "studyType": "B.S. in Interdisciplinary Studies of Human-Computer Interaction",
       "startDate": "2019-09-01",
@@ -95,13 +102,6 @@
         "Minor: Psychology",
         "Thesis: Design and Evaluation of a Conversational Robot for the Elderly Based on Social Penetration Theory"
       ]
-    },
-    {
-      "institution": "National Taiwan University",
-      "area": "Department of Forestry and Resource Conservation, College of Bio-Resources and Agriculture",
-      "studyType": "B.S. in Agriculture",
-      "startDate": "2019-09-01",
-      "endDate": "2025-01-31"
     }
   ],
   "publications": [
