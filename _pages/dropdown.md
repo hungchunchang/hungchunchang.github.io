@@ -11,4 +11,3 @@ children:
   - title: blog
     permalink: /blog/
 --- -->
-title_translated: 更多
