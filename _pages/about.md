@@ -29,7 +29,7 @@ translation: /zh/
 
 ## Biography
 
-Hi, I am **Hung-Chun (Jonathan) Chang**, a Master's student in **Psychology** at **National Taiwan University (NTU)**, advised by Prof. [Hsiu-Ping Yueh](https://homepage.ntu.edu.tw/~yueh/yueh.html) in the [Social Lab](https://homepage.ntu.edu.tw/~yueh/people.html) and co-advised by Prof. Feng-Ming Tsao and Prof. Hiroaki Ogata (Kyoto University).
+Hi, I am **Hung-Chun (Jonathan) Chang**, a Master's student in **Psychology** at **National Taiwan University (NTU)**, advised by Prof. [Hsiu-Ping Yueh](https://homepage.ntu.edu.tw/~yueh/yueh.html) in the [Social Lab](https://homepage.ntu.edu.tw/~yueh/people.html) and co-advised by Prof. [Feng-Ming Tsao](https://www.psy.ntu.edu.tw/index.php/members/faculty/fulltime-faculty/1958-tsao-feng-ming) and Prof. [Hiroaki Ogata](https://www.let.media.kyoto-u.ac.jp/en/member/hiroaki-ogata/) (Kyoto University).
 
 I study whether computational models of learners hold up against real learning data. My current work treats **LLM-based simulated students** as measurement instruments and asks what they actually capture: how closely their behavior matches real learners in [DataShop](https://pslcdatashop.web.cmu.edu/) data, what their internal representations encode, and whether anything they learn persists beyond the context window. Part of this work was done during a research residency with Prof. Hiroaki Ogata at **Kyoto University** and was accepted at the ReLEAF workshop at **ICCE 2026**.
 
