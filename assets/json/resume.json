@@ -28,9 +28,9 @@
       "endDate": "present",
       "summary": "Advisor: Prof. Hsiu-Ping Yueh.",
       "highlights": [
-        "Tested whether an ability-conditioned LLM student simulator holds up as a construct, using a nomological network of behavioral evidence checked against real learner data from DataShop.",
-        "Probed the simulator's internal representations: the ability tier given in the prompt is linearly decodable and steerable, while item-level competence is not recoverable by any readout we could reach.",
-        "Built a learner model whose weights update during play: in-context learning left no trace across episodes, while weight updates consolidated rule knowledge that transferred to novel objects."
+        "Recast the validity of an ability-conditioned LLM student simulator as a nomological network of four behavioral evidences: profile–behavior consistency, fidelity of error, boundary of competence, and stateful learning.",
+        "Tested all four concurrently against real per-tier learner data from the PSLC DataShop Fractions 2012 corpus, using zero-shot prompting and a 2×2 fine-tuning ablation (reasoning × history).",
+        "Found that fine-tuning with reasoning and history simulated students best, yet the competence paradox persisted and the learning mechanism was not reproduced; this first part was accepted at ReLEAF@ICCE 2026 (first author)."
       ]
     },
     {

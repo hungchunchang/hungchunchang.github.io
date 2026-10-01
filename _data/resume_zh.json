@@ -28,9 +28,9 @@
       "endDate": "至今",
       "summary": "指導教授：岳修平教授。",
       "highlights": [
-        "檢驗依能力設定的 LLM 模擬學生能否成立為一個構念（construct）：以 nomological network 組織行為證據，並與 DataShop 的真實學生資料比對。",
-        "探測模擬學生的內部表徵：prompt 指定的能力層級可被線性解碼、也可被 steering 操弄；但逐題層級的實際能力（competence），在我們能達到的所有讀出方法中都讀不到。",
-        "建構一個在互動中會更新權重的學習者模型：in-context learning 跨回合不留下痕跡，權重更新則能鞏固規則知識，並遷移到新物件。"
+        "將依能力設定的 LLM 模擬學生之效度，重新界定為由四項行為證據構成的 nomological network：個人檔案與行為一致性、錯誤的保真度、能力邊界，以及具狀態的學習（stateful learning）。",
+        "以 PSLC DataShop Fractions 2012 語料中真實學生的分層資料，同時檢驗四項證據；比較 zero-shot prompting 與 2×2 微調設計（推理 × 歷程）。",
+        "發現同時加入推理與歷程的微調模擬效果最好，但能力悖論（competence paradox）仍然存在，學習機制也沒有被重現；這第一部分已獲 ReLEAF@ICCE 2026 接受（第一作者）。"
       ]
     },
     {
