@@ -5,7 +5,7 @@ description: 高齡陪伴對話機器人的設計探索
 img: assets/img/robocom.jpg
 importance: 3
 related_publications: true
-category: course
+category: lab
 lang: zh-TW
 permalink: /zh/projects/3_robots_for_elderly/
 translation: /projects/3_robots_for_elderly/
@@ -13,6 +13,9 @@ translation: /projects/3_robots_for_elderly/
 
 **[專案網站](https://socrobot.ntu.edu.tw/Robert's%20House/index.html#)**
 **[GitHub](https://github.com/Jason0102/xiaoxiao_v1)**
+
+**資料分析與前端開發** · 2024 年 3 月 – 2025 年 12 月  
+*International Journal of Human–Computer Interaction*, 2026
 
 曉曉（XiaoXiao）是一款專為高齡使用者設計的陪伴型機器人，具備融入背景故事情境的**語音使用者介面（VUI）**，引導使用者進行自然且深入的對話。目的是透過對話代理人促進**自我揭露（self-disclosure）**行為。
 機器人的角色設定為一位剛畢業的大學生，藉由分享自身的生活經驗，以自然對話引導使用者分享個人經驗與想法。初步的設計構想與使用者測試結果發表於 **ARIS 2024** {% cite lo2024memory %}。

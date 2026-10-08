@@ -5,12 +5,15 @@ description: An exploration on designing conversation social robot
 img: assets/img/robocom.jpg
 importance: 3
 related_publications: true
-category: course
+category: lab
 translation: /zh/projects/3_robots_for_elderly/
 ---
 
 **[Project Website](https://socrobot.ntu.edu.tw/Robert's%20House/index.html#)**
 **[GitHub](https://github.com/Jason0102/xiaoxiao_v1)**
+
+**Data analysis & front-end development** · Mar. 2024 – Dec. 2025  
+*International Journal of Human–Computer Interaction*, 2026
 
 RoboCom is a social robot designed to provide sustained interaction with older adults. The core goal is to induce **self-disclosure** through a carefully designed conversation agent — a persona of a recently graduated college student who shares stories from their own life to invite the user to share theirs.
 

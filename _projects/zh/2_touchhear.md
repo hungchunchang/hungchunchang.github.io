@@ -3,7 +3,7 @@ layout: page
 title: 擴增實境觸聽系統 TouchHear
 description: 把印刷圖片變成「一摸就發聲」的介面，協助視障學生學習空間與地形概念
 img: assets/img/touchhear.jpg
-importance: 2
+importance: 5
 category: lab
 discuss_comments: false
 lang: zh-TW

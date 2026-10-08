@@ -168,7 +168,8 @@
       "summary": "Real-time fingertip tracking on a depth camera that turns printed images into touch-responsive audio surfaces for visually impaired learners.",
       "highlights": [
         "Replaced the experimenter-in-the-loop step of the original protocol with automatic tracking.",
-        "Built an authoring interface that lets non-programmers map audio to regions of any printed image."
+        "Built an authoring interface that lets non-programmers map audio to regions of any printed image.",
+        "Designed the printed template's ArUco markers to carry both depth-plane calibration and project identity, making each sheet self-describing."
       ],
       "startDate": "2025-09-01",
       "endDate": "2025-12-31"
@@ -178,6 +179,7 @@
       "summary": "Data analysis and front-end development.",
       "highlights": [
         "Operationalized discourse affectiveness into measurable linguistic indicators and validated the manipulation with NLP-based checks.",
+        "Developed the front-end app that presents the robot's responses.",
         "Sustained conversations averaging 15 minutes per session and 30 minutes per participant."
       ],
       "startDate": "2024-03-01",

@@ -18,4 +18,4 @@ The Social Robotics Training Program is a series of workshops and training progr
 - Literature review and user testing methodology
 - Prototyping and basic programming for social robots
 
-To date, the program has organized **2 workshops** and **2 training programs**, with sessions totaling **18+ hours** for 11 students.
+To date, I have held **2 workshops** on multimodal data analysis and voice-based social robots and **4 workshops** on social robot programming, and mentored **3 undergraduate projects**.

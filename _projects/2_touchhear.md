@@ -3,7 +3,7 @@ layout: page
 title: TouchHear
 description: An AR assistive learning system that turns printed images into touch-responsive audio surfaces for visually impaired learners
 img: assets/img/touchhear.jpg
-importance: 2
+importance: 5
 category: lab
 discuss_comments: false
 translation: /zh/projects/2_touchhear/
