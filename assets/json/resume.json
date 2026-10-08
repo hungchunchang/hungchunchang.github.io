@@ -171,8 +171,7 @@
         "Built an authoring interface that lets non-programmers map audio to regions of any printed image."
       ],
       "startDate": "2025-09-01",
-      "endDate": "2025-12-31",
-      "url": "https://github.com/hungchunchang/touchhear"
+      "endDate": "2025-12-31"
     },
     {
       "name": "Companion robot for older adults",
