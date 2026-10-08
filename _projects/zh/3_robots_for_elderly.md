@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 陪伴機器人（曉曉 Xiao Xiao）
+title: 高齡陪伴機器人
 description: 高齡陪伴對話機器人的設計探索
 img: assets/img/robocom.jpg
 importance: 3

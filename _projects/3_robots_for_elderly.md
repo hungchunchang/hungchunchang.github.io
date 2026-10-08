@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Companion Robot (Xiao Xiao)
+title: Companion Robots for Older Adults
 description: An exploration on designing conversation social robot
 img: assets/img/robocom.jpg
 importance: 3
