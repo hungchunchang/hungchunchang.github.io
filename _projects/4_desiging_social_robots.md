@@ -23,9 +23,10 @@ The Social Robot Design Platform distills the workflow behind the social robots 
 The design language grew out of systems I developed and deployed with real users:
 
 - **XiaoXiao**, a [companion robot for older adults](/projects/3_robots_for_elderly/)
-- A **diary robot**
+- **Zbot**, a diary robot for older adults built for my [bachelor's thesis](/projects/3_robots_for_elderly/#bachelors-thesis), reusing XiaoXiao's front end with a new back end
 - **Museum guide robots** — for the centennial exhibition at the Iso Eikichi Cottage, where visitors talked with the robot after their tour {% cite lin2025museum %}, and for the opening of the NTU College of Engineering museum
 - An **opening-ceremony host robot** at the National Taiwan Library
+- A **human library robot**, built from an idea proposed by one of the student research groups
 - **[ECRobot](/projects/1_ecrobot/)**, a robot tutor
 
 This development work also became the basis of the lab's [Social Robotics Training Program](/projects/5_social_robotics_program/).

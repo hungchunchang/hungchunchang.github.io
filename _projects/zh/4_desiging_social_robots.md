@@ -25,9 +25,10 @@ translation: /projects/4_desiging_social_robots/
 這套設計語言來自我開發、並實際與使用者一起使用過的系統：
 
 - **曉曉**，[高齡陪伴機器人](/zh/projects/3_robots_for_elderly/)
-- **日記機器人**
+- **日記機器人 Zbot**：我的[學士論文](/zh/projects/3_robots_for_elderly/#bachelors-thesis)系統，沿用曉曉的前端並開發新的後端
 - **博物館導覽機器人**：磯永吉小屋百週年特展（觀眾參觀後與機器人對話）{% cite lin2025museum %}，以及臺大工學院博物館開幕
 - 國立臺灣圖書館的**開幕主持機器人**
+- **真人圖書機器人**：由學生研究小組提出構想、由我開發
 - **[ECRobot](/zh/projects/1_ecrobot/)** 機器人家教
 
 這些開發經驗也成為研究室[社會機器人培訓課程](/zh/projects/5_social_robotics_program/)的基礎。
