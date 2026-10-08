@@ -43,6 +43,7 @@ Outside research, I run long distances and cycle; I finished two half marathons 
 
 ### Research Interests
 
+- **Human learning:** how people — scientists included — form concepts, and how the concepts we hold shape what we measure and notice.
 - **Learner modeling:** simulated students, construct validity, and comparing model and human learning.
 - **Intelligent tutoring systems:** building tutors and using them as testbeds for learning research.
 - **Human-robot interaction:** social robots for education and older adults.
