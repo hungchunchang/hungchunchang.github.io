@@ -10,8 +10,6 @@ related_publications: true
 translation: /zh/projects/4_desiging_social_robots/
 ---
 
-**[GitHub (jxw)](https://github.com/hungchunchang/jxw)** | **[GitHub (meme)](https://github.com/hungchunchang/meme)**
-
 The Museum Guide Robot project explores the design and deployment of a social robot as a guide in museum environments. The system aims to deliver informative, engaging, and personalized tour experiences for visitors.
 
 This is an ongoing project (2025/02 – Present) focused on natural human-robot interaction in a public, culturally rich setting.
