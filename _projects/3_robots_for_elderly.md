@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Xiao Xiao
+title: Companion Robot (Xiao Xiao)
 description: An exploration on designing conversation social robot
 img: assets/img/robocom.jpg
 importance: 3
