@@ -144,8 +144,8 @@ ninja.data = [{
           description: "A social robot providing guided tours in public settings",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_desiging_social_robots/";
-            },},{id: "projects-social-robotics-program",
-          title: 'Social Robotics Program',
+            },},{id: "projects-social-robotics-training-program",
+          title: 'Social Robotics Training Program',
           description: "Workshops and training programs on multimodal data analysis and voice-based social robots",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_social_robotics_program/";
