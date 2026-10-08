@@ -131,7 +131,7 @@ ninja.data = [{
               window.location.href = "/projects/1_ecrobot/";
             },},{id: "projects-touchhear",
           title: 'TouchHear',
-          description: "An AR assistive learning system for visually-impaired students in topography learning",
+          description: "An AR assistive learning system that turns printed images into touch-responsive audio surfaces for visually impaired learners",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_touchhear/";
             },},{id: "projects-xiao-xiao",
@@ -149,11 +149,6 @@ ninja.data = [{
           description: "Workshops and training programs on multimodal data analysis and voice-based social robots",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_social_robotics_program/";
-            },},{id: "projects-plp",
-          title: 'PLP',
-          description: "A personal tool to fetch bibtex citations, create note templates, and rename PDFs",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_plp/";
             },},{id: "projects-智慧家教機器人-ecrobot",
           title: '智慧家教機器人 ECRobot',
           description: "ECRobot（情感認知機器人）：具同理回饋設計的智慧教學系統",
@@ -161,7 +156,7 @@ ninja.data = [{
               window.location.href = "/zh/projects/1_ecrobot/";
             },},{id: "projects-擴增實境觸聽系統-touchhear",
           title: '擴增實境觸聽系統 TouchHear',
-          description: "協助視障學生學習地形概念的擴增實境輔助學習系統",
+          description: "把印刷圖片變成「一摸就發聲」的介面，協助視障學生學習空間與地形概念",
           section: "Projects",handler: () => {
               window.location.href = "/zh/projects/2_touchhear/";
             },},{id: "projects-曉曉-xiao-xiao",
@@ -179,11 +174,6 @@ ninja.data = [{
           description: "多模態資料分析與語音社會機器人的工作坊與培訓課程",
           section: "Projects",handler: () => {
               window.location.href = "/zh/projects/5_social_robotics_program/";
-            },},{id: "projects-plp",
-          title: 'PLP',
-          description: "抓取 bibtex 引用、建立筆記模板並重新命名 PDF 的個人工具",
-          section: "Projects",handler: () => {
-              window.location.href = "/zh/projects/7_plp/";
             },},{
         id: 'social-cv',
         title: 'CV',
