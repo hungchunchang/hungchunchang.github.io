@@ -124,7 +124,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-ecrobot",
+          section: "News",},{id: "projects-validity-of-llms-as-simulated-students",
+          title: 'Validity of LLMs as Simulated Students',
+          description: "Master&#39;s thesis — can an ability-conditioned LLM stand in for real learners?",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/0_simulated_students/";
+            },},{id: "projects-ecrobot",
           title: 'ECRobot',
           description: "ECRobot (Empathy Cognition Robot) — an Intelligent Tutoring System with empathetic feedback design",
           section: "Projects",handler: () => {
@@ -139,9 +144,9 @@ ninja.data = [{
           description: "An exploration on designing conversation social robot",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_robots_for_elderly/";
-            },},{id: "projects-designing-social-robots",
-          title: 'Designing Social Robots',
-          description: "A social robot providing guided tours in public settings",
+            },},{id: "projects-social-robot-design-platform",
+          title: 'Social Robot Design Platform',
+          description: "A design language and end-user programming tool for social robots, distilled from building five robotic systems",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_desiging_social_robots/";
             },},{id: "projects-social-robotics-training-program",
@@ -149,6 +154,11 @@ ninja.data = [{
           description: "Workshops and training programs on multimodal data analysis and voice-based social robots",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_social_robotics_program/";
+            },},{id: "projects-以-llm-作為模擬學生的效度",
+          title: '以 LLM 作為模擬學生的效度',
+          description: "碩士論文——依能力設定的 LLM 能否代替真實學習者？",
+          section: "Projects",handler: () => {
+              window.location.href = "/zh/projects/0_simulated_students/";
             },},{id: "projects-智慧家教機器人-ecrobot",
           title: '智慧家教機器人 ECRobot',
           description: "ECRobot（情感認知機器人）：具同理回饋設計的智慧教學系統",
@@ -164,9 +174,9 @@ ninja.data = [{
           description: "高齡陪伴對話機器人的設計探索",
           section: "Projects",handler: () => {
               window.location.href = "/zh/projects/3_robots_for_elderly/";
-            },},{id: "projects-設計社會機器人",
-          title: '設計社會機器人',
-          description: "在公共場域提供導覽的社會機器人",
+            },},{id: "projects-社會機器人設計平台",
+          title: '社會機器人設計平台',
+          description: "從開發五套機器人系統的經驗中提煉出的社會機器人設計語言與終端使用者程式設計工具",
           section: "Projects",handler: () => {
               window.location.href = "/zh/projects/4_desiging_social_robots/";
             },},{id: "projects-社會機器人培訓課程",
