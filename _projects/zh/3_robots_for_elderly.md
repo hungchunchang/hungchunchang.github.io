@@ -19,7 +19,7 @@ translation: /projects/3_robots_for_elderly/
 ## 曉曉
 
 **資料分析與前端開發** · 2024 年 3 月 – 2025 年 12 月  
-*International Journal of Human–Computer Interaction*, 2026
+_International Journal of Human–Computer Interaction_, 2026
 
 曉曉（XiaoXiao）是一款專為高齡使用者設計的陪伴型機器人，具備融入背景故事情境的**語音使用者介面（VUI）**，引導使用者進行自然且深入的對話。初步的設計構想與使用者測試結果發表於 **ARIS 2024** {% cite lo2024memory %}。
 
@@ -36,10 +36,9 @@ translation: /projects/3_robots_for_elderly/
 
 每次對話平均 **15 分鐘**，每位參與者平均 **30 分鐘**。
 
-## 學士論文：日記機器人 Zbot
-{: #bachelors-thesis}
+## 學士論文：日記機器人 Zbot {#bachelors-thesis}
 
-*基於社會滲透理論之高齡對話機器人設計與評估*（Design and Evaluation of a Conversational Robot for the Elderly Based on Social Penetration Theory）
+_基於社會滲透理論之高齡對話機器人設計與評估_（Design and Evaluation of a Conversational Robot for the Elderly Based on Social Penetration Theory）
 
 學士論文中，我開發了高齡日記機器人 Zbot：沿用曉曉的前端，並開發新的後端。機器人以社會滲透理論為基礎，設計成在對話過程中引導高齡者逐步揭露更多關於自己的事。本研究共進行 **28 次使用者研究、與 7 位高齡者互動，歷經 4 次系統迭代**。
 

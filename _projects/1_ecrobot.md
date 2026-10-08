@@ -12,7 +12,7 @@ translation: /zh/projects/1_ecrobot/
 **[GitHub](https://github.com/hungchunchang/EmpathyCognitiveRobot)**
 
 **Sole developer** · Sep. 2025 – Dec. 2025  
-*Enterprise Information Systems*, 2026; *Educational Psychology*, under revision
+_Enterprise Information Systems_, 2026; _Educational Psychology_, under revision
 
 The ECRobot (Empathy Cognition Robot) project investigates the effect of empathetic design on intelligent tutoring systems (ITS). The system assists students in completing linguistic puzzles with LLM-generated, empathetic real-time feedback.
 

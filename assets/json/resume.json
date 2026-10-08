@@ -112,10 +112,7 @@
       "studyType": "B.S. in Interdisciplinary Studies of Human-Computer Interaction",
       "startDate": "2019-09-01",
       "endDate": "2025-01-31",
-      "courses": [
-        "Minor: Psychology",
-        "Thesis: Design and Evaluation of a Conversational Robot for the Elderly Based on Social Penetration Theory"
-      ]
+      "courses": ["Minor: Psychology", "Thesis: Design and Evaluation of a Conversational Robot for the Elderly Based on Social Penetration Theory"]
     }
   ],
   "publications": [
@@ -224,26 +221,11 @@
   "skills": [
     {
       "name": "Programming & Tools",
-      "keywords": [
-        "Python",
-        "Swift",
-        "Java",
-        "MATLAB",
-        "LaTeX",
-        "FastAPI",
-        "React",
-        "TypeScript"
-      ]
+      "keywords": ["Python", "Swift", "Java", "MATLAB", "LaTeX", "FastAPI", "React", "TypeScript"]
     },
     {
       "name": "Research Methods",
-      "keywords": [
-        "Construct Validity",
-        "Experimental Design",
-        "Representation Probing",
-        "User Research",
-        "Multimodal Data Analysis"
-      ]
+      "keywords": ["Construct Validity", "Experimental Design", "Representation Probing", "User Research", "Multimodal Data Analysis"]
     }
   ],
   "languages": [
@@ -263,10 +245,7 @@
   "interests": [
     {
       "name": "Long-distance running",
-      "keywords": [
-        "Half marathon",
-        "Road running"
-      ]
+      "keywords": ["Half marathon", "Road running"]
     },
     {
       "name": "Cycling",

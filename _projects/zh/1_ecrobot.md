@@ -14,7 +14,7 @@ translation: /projects/1_ecrobot/
 **[GitHub](https://github.com/hungchunchang/EmpathyCognitiveRobot)**
 
 **獨立開發** · 2025 年 9 月 – 2025 年 12 月  
-*Enterprise Information Systems*, 2026；*Educational Psychology*，修改中
+_Enterprise Information Systems_, 2026；_Educational Psychology_，修改中
 
 ECRobot（情感認知機器人）計畫旨在探討「同理心設計」對智慧教學系統（ITS）的影響，透過大型語言模型（LLM）生成具同理心的即時回饋，協助學生完成語言謎題。
 
