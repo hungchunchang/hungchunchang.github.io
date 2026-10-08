@@ -3,12 +3,15 @@
 en:
   other_lang: zh-TW
   switch_label: 中文
+  cv_sections:
+    research_interests: Research Interests
 zh-TW:
   prefix: zh
   other_lang: en
   switch_label: EN
   cv_sections:
     basics: 基本資料
+    research_interests: 研究興趣
     work: 研究與工作經歷
     education: 學歷
     publications: 著作

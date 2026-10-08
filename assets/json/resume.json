@@ -19,6 +19,20 @@
       }
     ]
   },
+  "research_interests": [
+    {
+      "name": "Human learning",
+      "summary": "how people — scientists included — form concepts, and how the concepts we hold shape what we measure and notice."
+    },
+    {
+      "name": "Learner modeling",
+      "summary": "simulated students, construct validity, and comparing model and human learning."
+    },
+    {
+      "name": "Human-computer interaction",
+      "summary": "tutoring systems and social robots for education and older adults, built both as tools and as testbeds for learning research."
+    }
+  ],
   "work": [
     {
       "name": "Master's Thesis Research (in progress), Department of Psychology, National Taiwan University",
