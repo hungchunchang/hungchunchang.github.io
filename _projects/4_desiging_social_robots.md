@@ -16,4 +16,4 @@ This is an ongoing project (2025/02 – Present) focused on natural human-robot 
 
 Results from the deployment at the Iso Eikichi Cottage were published at DADH 2025 {% cite lin2025museum %}.
 
-This development work later grew into two projects: the lab training course [Social Robotics Program](/projects/5_social_robotics_program/) and the Social Robot Design Platform (SRDP), which is now in beta.
+This development work later grew into two projects: the lab training course [Social Robotics Training Program](/projects/5_social_robotics_program/) and the Social Robot Design Platform (SRDP), which is now in beta.
