@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Hung Chun
+first_name: Hung-Chun
 middle_name:
 last_name: Chang
 email: jonathanchang9@gmail.com
@@ -270,8 +270,8 @@ display_categories: ["exchange", "ai", "user"] # these categories will be displa
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Chang]
+  first_name: [Hung-Chun, H.-C.]
 
   style: apa
   locale: en
