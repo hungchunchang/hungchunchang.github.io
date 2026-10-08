@@ -139,8 +139,8 @@ ninja.data = [{
           description: "An AR assistive learning system that turns printed images into touch-responsive audio surfaces for visually impaired learners",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_touchhear/";
-            },},{id: "projects-companion-robot-xiao-xiao",
-          title: 'Companion Robot (Xiao Xiao)',
+            },},{id: "projects-companion-robots-for-older-adults",
+          title: 'Companion Robots for Older Adults',
           description: "An exploration on designing conversation social robot",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_robots_for_elderly/";
@@ -169,8 +169,8 @@ ninja.data = [{
           description: "把印刷圖片變成「一摸就發聲」的介面，協助視障學生學習空間與地形概念",
           section: "Projects",handler: () => {
               window.location.href = "/zh/projects/2_touchhear/";
-            },},{id: "projects-陪伴機器人-曉曉-xiao-xiao",
-          title: '陪伴機器人（曉曉 Xiao Xiao）',
+            },},{id: "projects-高齡陪伴機器人",
+          title: '高齡陪伴機器人',
           description: "高齡陪伴對話機器人的設計探索",
           section: "Projects",handler: () => {
               window.location.href = "/zh/projects/3_robots_for_elderly/";
